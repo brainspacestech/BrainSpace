@@ -62,7 +62,7 @@ theme = "timer-hugo"
 
     # Homepage About Section
     [params.about]
-        enable  = true
+        enable  = false
         title   = "ABOUT US"
         content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
         image   = "images/about/about.jpg"
@@ -72,12 +72,12 @@ theme = "timer-hugo"
         enable  = true
         title   = "SO WHAT YOU THINK ?"
         content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
-        btnText = "Contact with me"
+        btnText = "Contact Us"
         btnURL  = "/contact"
 
     # Portfolio Section On Homepage
     [params.portfolio]
-        enable  = true
+        enable  = false
         title   = "Latest Works"
         subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
 
