@@ -45,17 +45,16 @@ theme = "timer-hugo"
         enable  = true
         bgImage = "images/slider.jpg"
         heading = "Partner to Your Digital Journey"
-        description = "Brainspace Technologies is a next generation technology company which offers solutions and services spanning across robotics, enterprise content management and business process management. 
-We are uniquely positioned to provide what our customers need – complex software solutions to answer their requirements, delivered reliably on time, with excellent value for money."
+        description = "Brainspace Technologies is a next generation technology company which offers cutting edge IT solutions."
         btn     = true
-        btnText = "Download More"
+        btnText = "Intellegent Information Management"
         btnURL  = "https://themefisher.com/"
         [[params.banner.flipText]]
-            title   = "CONTENT SERVICES"
+            title   = "Content Services"
         [[params.banner.flipText]]
-            title   = "PROCESS SERVICES"
+            title   = "Process Services"
         [[params.banner.flipText]]
-            title   = "ANALYTICS SERVICES"
+            title   = "Analitycs Services"
 
     # Homepage About Section
     [params.about]
