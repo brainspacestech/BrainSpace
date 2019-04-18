@@ -1,4 +1,4 @@
-baseURL = "www.brainspacetech.com"
+baseURL = ""
 languageCode = "en-us"
 title = "Brainspace Technologies"
 theme = "timer-hugo"
