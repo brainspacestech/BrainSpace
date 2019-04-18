@@ -51,11 +51,11 @@ We are uniquely positioned to provide what our customers need – complex softwa
         btnText = "Download More"
         btnURL  = "https://themefisher.com/"
         [[params.banner.flipText]]
-            title   = "DESIGNER"
+            title   = "CONTENT SERVICES"
         [[params.banner.flipText]]
-            title   = "DEVELOPER"
+            title   = "PROCESS SERVICES"
         [[params.banner.flipText]]
-            title   = "FATHER"
+            title   = "ANALYTICS SERVICES"
 
     # Homepage About Section
     [params.about]
