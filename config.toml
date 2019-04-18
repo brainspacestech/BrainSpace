@@ -44,8 +44,9 @@ theme = "timer-hugo"
     [params.banner]
         enable  = true
         bgImage = "images/slider.jpg"
-        heading = "HI, MY NAME IS Naveen & I AM A"
-        description = "WITH 10 YEARS EXPERIENCE, I'VE OCCUPIED MANY ROLES INCLUDING DIGITAL DESIGN DIRECTOR, WEB DESIGNER AND DEVELOPER. THIS SITE SHOWCASES SOME OF MY WORK."
+        heading = "Partner to Your Digital Journey"
+        description = "Brainspace Technologies is a next generation technology company which offers solutions and services spanning across robotics, enterprise content management and business process management. 
+We are uniquely positioned to provide what our customers need – complex software solutions to answer their requirements, delivered reliably on time, with excellent value for money."
         btn     = true
         btnText = "Download More"
         btnURL  = "https://themefisher.com/"
@@ -59,7 +60,7 @@ theme = "timer-hugo"
     # Homepage About Section
     [params.about]
         enable  = true
-        title   = "ABOUT ME"
+        title   = "ABOUT US"
         content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
         image   = "images/about/about.jpg"
 
