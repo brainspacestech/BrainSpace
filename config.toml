@@ -48,7 +48,7 @@ theme = "timer-hugo"
         description = "Brainspace Technologies is a next generation technology,service and consulting company offering cutting edge IT solutions.We are uniquely positioned to provide what our customers need – complex software solutions to answer their requirements, delivered reliably on time, with excellent value for money."
         btn     = true
         btnText = "Intellegent Information Management"
-        btnURL  = "https://themefisher.com/"
+        btnURL  = ""
         [[params.banner.flipText]]
             title   = "Content Services"
         [[params.banner.flipText]]

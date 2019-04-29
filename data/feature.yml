@@ -1,34 +1,34 @@
 enable  : true
-title   : Offer From Me
-subtitle: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, <br> quasi dolores numquam dolor vero ex, tempora commodi      repellendus quod laborum.
+title   : OFFER FROM US
+# subtitle: >
+#   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, <br> quasi dolores numquam dolor vero ex, tempora commodi      repellendus quod laborum.
 item    :
   - icon  : ion-ios-flask-outline
-    title : Media heading
+    title : Consulting
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+       Our consultants work across all IT dimensions – from understanding current business processes to identifying gaps and creating strategic imperatives for digital transformation. Our goal is to help you focus on business process design and strategize and implement policies for continuous improvement and automation.
 
   - icon  : ion-ios-lightbulb-outline
-    title : Well documented.
+    title : Software Development
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      In today’s world, software products must delight their users. But development speed and applied creativity remain critical priorities. If you’re looking for software development services, BrainSpace can help you create innovative, engaging products, while simultaneously ensuring rapid time to market.
 
   - icon  : ion-ios-americanfootball-outline
-    title : Free updates
+    title : Content Migration
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      A process of moving information stored on legacy content management system to a new platform. We are experts at managing content migrations, regardless of platform, on a global scale. We will ensure that you get the right content on your new platform, cost effectively and on time and help you get the most from your investment.
 
   - icon  : ion-ios-keypad-outline
-    title : Solid Support
+    title : Digital Transformation
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Brainspace is a digital technology company that enables digital transformation for global organizations. Our digital transformation consulting leverage a wide spectrum of digital technologies to help companies improve products and services, enhance customer experience, enter new markets, and increase revenues.
 
   - icon  : ion-ios-barcode-outline
-    title : Simple Installation
+    title : Analytics
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      we understand that embedding analytics in your enterprise applications requires a well-structured and carefully orchestrated strategy. Our focus is helping our customers achieve positive results by integrating enterprise applications with critical data to solve unique organizational challenges.
   
   - icon  : ion-ios-lightbulb-outline
-    title : Well documented.
+    title : Cloud Computing
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+       Cloud transformation services make it easy for the organizations to manage the workloads and helps to reduce the operational cost. We provide services and solution for highly regulated organizations to be secure, optimized and compliant throughout their cloud journey.
